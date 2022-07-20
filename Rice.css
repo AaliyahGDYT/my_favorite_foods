@@ -3,9 +3,16 @@ body{
 }
 
 .paragraph-section{
+    background-color:#e78813;
+    font-size: larger;
     border-style: solid;
+    font-family: Trattatello, fantasy;
 }
 
+.list-section{background-color:darkblue;
+    color: white;
+        font-family:Bradley Hand, cursive;
+}
    
 
 
