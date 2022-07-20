@@ -1,6 +1,6 @@
 body{
-    background-image:url("https://media1.giphy.com/media/MqQUmdElMRaaf2suJ1/giphy.gif");
-}
+    
+    background-color:beige;
 
 .paragraph-section{
     background-color:#e78813;
@@ -9,9 +9,9 @@ body{
     font-family: Trattatello, fantasy;
 }
 
-.list-section{background-color:darkblue;
-    color: white;
-        font-family:Bradley Hand, cursive;
+.list-section{background-color:rgb(119, 119, 201, 0.6);
+    color:black;
+        font-family:Courier, monospace;
 }
    
 
